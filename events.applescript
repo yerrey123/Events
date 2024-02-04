@@ -5,10 +5,10 @@ tell application "Messages"
 
     -- Define your lists of events and recipients
     set birthdays to {{"02-03", "Replace your number here", "Happy Birthday Message"}} -- add more birthday, their number, and message 
-    set majorHolidays to {Â
-    {"12-25", "Replace your number here", "Merry Christmas!"}, Â
-    {"11-28", "Replace your number here", "Happy Thanksgiving!"}, Â
-    {"01-01", "Replace your number here", "Happy New Year!"}Â
+    set majorHolidays to {Â¬
+    {"12-25", "Replace your number here", "Merry Christmas!"}, Â¬
+    {"11-28", "Replace your number here", "Happy Thanksgiving!"}, Â¬
+    {"01-01", "Replace your number here", "Happy New Year!"} Â¬
     }
     set workHolidays to {{"01-01", "Replace your number here", "New Year's Off"}, {"01-15", "Replace your number here", "Martin Luther King Off!"}, {"02-19", "Replace your number here", "Washington Birthday Off!"}, {"05-27", "Replace your number here", "Memorial Day Off!"}, {"06-19", "Replace your number here", "Juneteenth Day Off"}, {"07-04", "Replace your number here", "Independence Day Off"}, {"09-02", "Replace your number here", "Labor Day Off"}, {"11-11", "Replace your number here", "Veterans Day Off"}, {"11-28", "Replace your number here", "Thanksgiving Off"}, {"12-25", "Replace your number here", "Christmas Off"}}
     
